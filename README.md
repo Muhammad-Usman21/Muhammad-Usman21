@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center">MERN Stack Web Developer | AI Engineering Enthusiast</h3>
+***<h3 align="center">MERN Stack Web Developer | AI Engineering Enthusiast</h3>***
 
 ###
 
