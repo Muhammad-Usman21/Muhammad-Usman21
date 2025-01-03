@@ -35,19 +35,19 @@
 -->
 
 
-💻 **MERN Full-Stack Web Developer:** Passionate about building dynamic, user-friendly websites and applications. Proficient in ***MongoDB***, ***Express.js***, ***React.js***, and ***Node.js*** to craft efficient, scalable solutions.
+💻 **MERN Full-Stack Web Developer 🚀:** Passionate about building dynamic, user-friendly websites and applications. Proficient in ***MongoDB***, ***Express.js***, ***React.js***, and ***Node.js*** to craft efficient, scalable solutions. 🌐
 
 ###
 
-🤖 **AI Enthusiast & Engineer:** Exploring the realms of ***Machine Learning***, ***Computer Vision***, and ***Generative AI*** to solve complex problems and create innovative systems.
+🤖 **AI Enthusiast & Engineer 🧠:** Exploring the realms of ***Machine Learning***, ***Computer Vision***, and ***Generative AI*** to solve complex problems and create innovative systems. ⚙️
 
 ###
 
-🌱 **Always Learning:** Continuously growing my skills in web development and AI to stay at the forefront of technology.
+🌱 **Always Learning 📚:** Continuously growing my skills in web development and AI to stay at the forefront of technology. 🔍
 
 ###
 
-🚀 **Let's Collaborate:** Check out my repositories and feel free to reach out for collaboration or discussions!
+🚀 **Let's Collaborate 🤝:** Check out my repositories and feel free to reach out for collaboration or discussions! 💬
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h3 align="center">👤 Profile Viewers 🔍</h3>
+<h3 align="center">👨‍💻 Profile Viewers 🔍</h3>
 
 ###
 
