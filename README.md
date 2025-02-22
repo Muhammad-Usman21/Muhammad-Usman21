@@ -22,18 +22,6 @@
 
 ###
 
-<!--
-
-<p align="left">Hi there! I'm a passionate MERN full-stack web developer with a strong focus on building dynamic, user-friendly websites and applications. My expertise in the MERN stack (MongoDB, Express.js, React.js, and Node.js) enables me to create efficient, high-performing solutions tailored to unique needs. Explore my repositories to see my projects and contributions to web development!<br><br>I'm also exploring the exciting world of AI engineering. My interests include Machine Learning, Computer Vision, and Generative AI, where I apply cutting-edge techniques to solve complex problems, create innovative systems, and explore AI's creative potential.</p>
-
-###
-
-<p align="left">💻 MERN Full-Stack Web Developer: Passionate about building dynamic, user-friendly websites and applications. Proficient in MongoDB, Express.js, React.js, and Node.js to craft efficient, scalable solutions.<br><br>🤖 AI Enthusiast & Engineer: Exploring the realms of Machine Learning, Computer Vision, and Generative AI to solve complex problems and create innovative systems.<br><br>🌱 Always Learning: Continuously growing my skills in web development and AI to stay at the forefront of technology.<br><br>🚀 Let's Collaborate: Check out my repositories and feel free to reach out for collaboration or discussions!"</p>
-
-###
-
--->
-
 
 💻 **MERN Full-Stack Web Developer:** 🚀 <br/>
 Passionate about building dynamic, user-friendly websites and applications. Proficient in ***MongoDB***, ***Express.js***, ***React.js***, and ***Node.js*** to craft efficient, scalable solutions. 🌐
