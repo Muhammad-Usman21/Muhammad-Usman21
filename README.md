@@ -19,7 +19,7 @@
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chart-months-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/chart-months-light.svg"><img src="assets/chart-months-dark.svg" alt="Nov 50, Dec 51, Jan 113, Feb 87, Mar 151, Apr 142, May 260, Jun 361, Jul 252, Aug 252, Sep 715, Oct 406" width="100%"></picture><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chart-weekdays-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/chart-weekdays-light.svg"><img src="assets/chart-weekdays-dark.svg" alt="Mon 372, Tue 355, Wed 383, Thu 451, Fri 666, Sat 319, Sun 332" width="49.4%"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/chart-languages-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/chart-languages-light.svg"><img src="assets/chart-languages-dark.svg" alt="JavaScript 63%, Python 19%, HTML 9%, SQL 8%, CSS 1%" width="49.4%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/chart-languages-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/chart-languages-light.svg"><img src="assets/chart-languages-dark.svg" alt="Jupyter Notebook 44%, TypeScript 37%, JavaScript 13%, Python 4%, Other 2%" width="49.4%"></picture>
 </p>
 
 <p align="center"><a href="https://github.com/Muhammad-Usman21"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg"><img src="assets/activity-dark.svg" alt="A snake hunts the last year's 285 contribution days in a random order. 285 active days." width="100%"></picture></a></p>
