@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113.31" height="40" viewBox="0 0 113.31 40" role="img"><title>Résumé</title><desc>Résumé: https://musman-portfolio.vercel.app/Usman-Resume.pdf</desc><foreignObject x="0" y="0" width="113.31" height="40"><div xmlns="http://www.w3.org/1999/xhtml" class="t" style="width:113.31px;height:40px"><style><![CDATA[
+@font-face { font-family: "Inter"; font-style: normal; font-weight: 500; font-display: block; src: url(data:font/woff2;base64,d09GMgABAAAAAATsABAAAAAACRAAAASPAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbgWocbgZgP1NUQVRaAFwRCAqEVIQmCxYAATYCJAMoBCAFhDIHIAwHG7IHURQSRvYzwabTt8CiiRYYY9GcFsR5b5Y1msyMR/guomLVyup5eV/Fr16FQqFehVCER4OxaCQKYT6nUSfUSfZ/8qyfTjtoxuiQTIlk3xBa80Te6OsuD/RXe3uBb2UnyILmpx/HQYEHvAIJB5hg2Pz+fyWHfXUpf0qlBlIraEgj8r9pFa9gSrPaMBqKQejnLROLPWWeLBaQKhQQC1CM2cYwMk+5zXiJX1UwCyglIhq9CKZdykPuxCRlgc28SsoHw7WUwQPDQzkuBENkmBC6+ag9QyoE3SCvyrUA0HxbU0Z5sAujco+MJwUoerF5cjS6++dbCo0UbUozUbZMm4cU6pU+joQh5VVfplZliifqIiQEoP0oqCqMImpxm594D+3D/2BnaqpXlwzatAb5q6Mr0jvAW+VRH3NVUl3CW2vRIP4RD8PkTLiC5tNw5U8TjN8aBSkB7YjyENihLGLUYJUcjpHOYlk14gde1mwcQSBbvJyPhAHJHl3yGqWicAAEEVJEfxFU5E8VFNR8tM8guwbmjUpvRwYBGcKnCYaZkN0kE4YNMYSIcQSeXwDTcO8FAz5BcmD+mwKYCK5P2EztHhyc9MhojVrPkyfQ+PgxVRlR6Xn2DGl6+pSqXKXGRTmC7qcvkaZXz9DN3icA6tHIWsl0YwigcZJFA+SZ/ThuoUpoPrUDpJhd9T0BMpXShG0FPYLup09zco+BikpOjsOWCZRkZx0zK9DYFLLvAlgXoaDkRimc9rdQpBagjx/XFKJ5a0B5qLv77ojkUVe39O47yd7Q9Rphe0gokZkVWtURIdKHTo3HXvwnXARCd+1HXyOyv1tP+TA8W3Y0pK8t4/FkSs0qlenNCp2tzS0pbsmPGs4Vy1Lm+9JKQjCLuBjLu26G2fUtF+JgtOQBhaShV4JVtQXFV4+NG7Qb6xTyGibDc7HF7OKtht+vX4trsexozN+bGXn7xecCKS8/mO0XIkw/DVbrVReiKzu1Ku466ObUZZZz6/JCfJKiU9XPO8xYTExV0kVjVzMaqnaiuXW6GTccElh5WGFVeqhfWlSh9nHbaYuxMYKJz97NA/U56U5pyfnuW693quo7BIl4WGRt3vjrkoegseY2cb4DqK0/ehze3HIwQ2ojYTBGxQCLgMfwqc2RN4SgdfXEra1L1YJ+Y6MI8PvcMWjm5jRt3yEMGgXCr2kPNWX/jX2jmH86C0PiKK7W2rcyh4PEjrZdqEjvG602wEfVgWDaMZJwBIqG5+a8k5NUCXiNzhHT/jvKvH+Oxrkzjta2eUfnAtve25YSgCAw64rxVF44/OgzdfhTtO4IA2XT0oQDFQ9EBMoJxcOV4+PAuPMihkstYAKLmCZTi6zGkIyBbiEI5ErBwcKGiyeEY5ByloGBhcBXTipnQawMh4gQjRcXbty4C8TCgXPmk7CawRd2WKGCFYW2ffa4GTIlyxSoetvfRNYjiYhVkd6f0ngw2z5osiYMY+sOOI1U63IxYOB8OAKOTfQ2SmNHEMKJyQRw5SpOYiNUcIEREXDVxgVkXHHIVXty4lh/u+b0/iS0rX0BAAAA) format("woff2"); }
+.t { --bg: #fafafa; --bg-elev: #ffffff; --fg: #090909; --fg-muted: #424242; --fg-faint: #717171; --line: rgba(22, 22, 22, 0.16); --line-strong: rgba(22, 22, 22, 0.32); --invert-bg: #1b1b1b; --invert-fg: #fafafa; --live: #03a14a; --glow: rgba(9, 9, 9, 0.22); }
+
+.t {
+	--display: "Newsreader", Georgia, serif;
+	--body: "Inter", system-ui, sans-serif;
+	--mono: "JetBrains Mono", ui-monospace, monospace;
+	--ease: cubic-bezier(0.16, 1, 0.3, 1);
+	font: 14px/1.5 var(--body);
+	-webkit-font-smoothing: antialiased;
+}
+.t * { box-sizing: border-box; }
+.card {
+	background: var(--bg); color: var(--fg); border: 1px solid var(--line); border-radius: 10px;
+	position: relative; overflow: hidden; font-family: var(--body);
+}
+.card::after {
+	content: ""; position: absolute; inset: 0; pointer-events: none; opacity: 0.05;
+	background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2' stitchTiles='stitch'/><feColorMatrix type='saturate' values='0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+}
+.pad { padding: 36px; }
+/* the portfolio's two label tiers: .mono / scene heads (12px, 0.26em) and .note-sized small labels (11px, 0.2em) */
+.mono { font: 400 12px/1.5 var(--mono); text-transform: uppercase; letter-spacing: 0.26em; color: var(--fg-muted); }
+.note { font-size: 11px; letter-spacing: 0.2em; color: var(--fg-faint); }
+.tnum { font-variant-numeric: tabular-nums; }
+.head { display: flex; justify-content: space-between; align-items: center; gap: 16px; }
+.tagline { display: inline-flex; align-items: center; gap: 16px; color: var(--fg); }
+.gdot { width: 8px; height: 8px; margin-inline: 5px; border-radius: 50%; background: var(--fg); box-shadow: 0 0 0 4px var(--bg), 0 0 0 5px var(--line-strong), 0 0 10px 1px var(--glow); flex: none; }
+.live { width: 7px; height: 7px; border-radius: 50%; background: var(--live); box-shadow: 0 0 8px 1px var(--live); flex: none; }
+.serif { font-family: var(--display); font-weight: 400; letter-spacing: -0.03em; margin: 0; text-wrap: balance; }
+.stamp { display: inline-flex; align-items: center; gap: 8px; font-size: 11px; letter-spacing: 0.2em; color: var(--fg-faint); }
+.stamp .live { width: 6px; height: 6px; }
+@media (prefers-reduced-motion: no-preference) {
+	.gdot { animation: glow 2.8s ease-in-out infinite; }
+	.live { animation: live 2.4s ease-in-out infinite; }
+}
+@keyframes glow { 50% { box-shadow: 0 0 0 4px var(--bg), 0 0 0 5px var(--line-strong), 0 0 18px 4px var(--glow); } }
+@keyframes live { 50% { box-shadow: 0 0 14px 3px var(--live); } }
+@keyframes fadein { from { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .t *, .t *::before, .t *::after { animation: none !important; transition: none !important; } }
+
+
+.btns { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; }
+.btn { display: inline-flex; align-items: center; gap: 8px; height: 40px; padding-inline: 18px; border-radius: 999px; font: 500 14px/1 var(--body); letter-spacing: -0.005em; border: 1px solid var(--line-strong); color: var(--fg); background: transparent; white-space: nowrap; }
+.btn.fill { background: var(--invert-bg); color: var(--invert-fg); border-color: var(--invert-bg); }
+.btn svg { width: 14px; height: 14px; }
+]]></style><span xmlns="http://www.w3.org/1999/xhtml" class="btn" style="width: 113.31px; height: 40px;">Résumé <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10M7 17 17 7"/></svg></span></div></foreignObject></svg>

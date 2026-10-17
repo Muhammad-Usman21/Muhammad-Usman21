@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95.55" height="40" viewBox="0 0 95.55 40" role="img"><title>Email</title><desc>Email: https://musman-portfolio.vercel.app/#contact</desc><foreignObject x="0" y="0" width="95.55" height="40"><div xmlns="http://www.w3.org/1999/xhtml" class="t" style="width:95.55px;height:40px"><style><![CDATA[
+@font-face { font-family: "Inter"; font-style: normal; font-weight: 500; font-display: block; src: url(data:font/woff2;base64,d09GMgABAAAAAASsABAAAAAACOgAAAROAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbgXQcgRIGYD9TVEFUWgBUEQgKhASDTAsYAAE2AiQDLAQgBYQyByAMBxuCB1FUUD6TfZFgc+bh1iBN21QolmLcS/SWPXQte9xy8fuIqjGyZ++eUX29CpAiVKheyRDotwF2iVGRESasWaX8J/LfoDz/Z9Ok8DOZEukH7DOPIgCueb8qkGGBPOjA5hEhVqCPMxrgyD76/9y/cAP8p8P++fv5ugoaYCbgRjqR+xZ1FhEUbZE4Hc1gIFUWyT/wk33RD2JfYXjVYe7CnyoYB5QSTQwYFMGok3rRg+rGTkTPJztM8F871Eb4H8Y4C/zRsEPQOqP2aocF3gbIsWyAceq6EcPit6YwrFxB46pBjEFyZwyK0iDJYVml1HQacUCD6bTASNIN7i7NKJCfkSpPNLCNJ5fZgdBLGIP/g3d7MkSJ6aQ5JJCQQiL2YHYZG6kyleYQceCUpudHyJYBBsL+AbymYvWzvaL/zkAelI4AwMawqQO3hDKX32+7w/C/nkIioI+Yr2CNVMSwhnk87EOdbc4p5CjcWus4EmTLjZnIWVDWeeNrSgVlAIIICbOFoII8clBAIfQe2lkwbljp1lQZo2fOUMCZPrTvXOtNr3uFAIBIxhQYA4tgBE/BdzDugYH4gujHUkgjOtadpuNpqVQy1Q1ySsHqx5Z8+EBmf5StPdTzkiSoICJe8u5dYHfmo2Tpe64OtJiIj1Vo3UszhKx7Rz2R9zgPZjW2SEQS4dTJ4qlRoE/c19lF9RP8zGzISHLAiEDCn7LkDZn9VrL0NWa9mrpkWWTg3v/Id/vBvDly78G1tXfXPn12D898DUeb2Y2WkdrJ02o2RTQLxyVT5Xti+CUpXcPJNXW6xNKq/y+yotjlky/mjFduDJnf0bFxyvf3myX9XW1zMuNO9c+sqnCWrbxa7t4lbxGt+aiJKqzKz8quGYrAuuFvw/Bh3sD1fIOAFb/pa4Zy8xlmJ88vrJuyfoPfgkCvAePMTWU97K6uocMz/3z7ZpvGdlWxeVmaimeff/c7jH1FutxiS9tFDPzwPevLzJ0YdyU2+kh87OaY+E1QukR5rQ3ZOVQkL6+tISf7Y3SB6qMxaDQ2DdyGvAdbCLrzn8OBjUyd/DfchIA/NzdXRaduR3vW4OZQBzQFwp/2DLU7aKll0jB7/lixlFygv9nfnzpyHbcVwlM0GIvu70O+2nPrgAcIxhxHmUYJnFNx3YS3eFIQgYeR8WPUf36Z9JffHHKJ363awR9wmI43aFWzHCEYdx6fQT7Mz+UrmJ9HaJFfCqnR95VBjA1WZmMs6nDGmOix0mSy4bSw4Qx9YzRUB1OfQq2JmortYtbzDj0tHU4dC46aQ5J2alouJmMcuhvOddKzsgiVKVmqVGkKaOlxkmQ7iGPlYKfHjaO0hI5OnW27Dk06FKw9qg8PGaxgZTOZY//xUOnIQrZQnRWcenQP0VYOrmSgxg7sLOPC0bGeDekQC0Bcp41TvhQpHNbZwWVcMva2IYVDkceJc+vB+Tg8tq7tY7Zrfpdso98AAAA=) format("woff2"); }
+.t { --bg: #fafafa; --bg-elev: #ffffff; --fg: #090909; --fg-muted: #424242; --fg-faint: #717171; --line: rgba(22, 22, 22, 0.16); --line-strong: rgba(22, 22, 22, 0.32); --invert-bg: #1b1b1b; --invert-fg: #fafafa; --live: #03a14a; --glow: rgba(9, 9, 9, 0.22); }
+
+.t {
+	--display: "Newsreader", Georgia, serif;
+	--body: "Inter", system-ui, sans-serif;
+	--mono: "JetBrains Mono", ui-monospace, monospace;
+	--ease: cubic-bezier(0.16, 1, 0.3, 1);
+	font: 14px/1.5 var(--body);
+	-webkit-font-smoothing: antialiased;
+}
+.t * { box-sizing: border-box; }
+.card {
+	background: var(--bg); color: var(--fg); border: 1px solid var(--line); border-radius: 10px;
+	position: relative; overflow: hidden; font-family: var(--body);
+}
+.card::after {
+	content: ""; position: absolute; inset: 0; pointer-events: none; opacity: 0.05;
+	background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2' stitchTiles='stitch'/><feColorMatrix type='saturate' values='0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+}
+.pad { padding: 36px; }
+/* the portfolio's two label tiers: .mono / scene heads (12px, 0.26em) and .note-sized small labels (11px, 0.2em) */
+.mono { font: 400 12px/1.5 var(--mono); text-transform: uppercase; letter-spacing: 0.26em; color: var(--fg-muted); }
+.note { font-size: 11px; letter-spacing: 0.2em; color: var(--fg-faint); }
+.tnum { font-variant-numeric: tabular-nums; }
+.head { display: flex; justify-content: space-between; align-items: center; gap: 16px; }
+.tagline { display: inline-flex; align-items: center; gap: 16px; color: var(--fg); }
+.gdot { width: 8px; height: 8px; margin-inline: 5px; border-radius: 50%; background: var(--fg); box-shadow: 0 0 0 4px var(--bg), 0 0 0 5px var(--line-strong), 0 0 10px 1px var(--glow); flex: none; }
+.live { width: 7px; height: 7px; border-radius: 50%; background: var(--live); box-shadow: 0 0 8px 1px var(--live); flex: none; }
+.serif { font-family: var(--display); font-weight: 400; letter-spacing: -0.03em; margin: 0; text-wrap: balance; }
+.stamp { display: inline-flex; align-items: center; gap: 8px; font-size: 11px; letter-spacing: 0.2em; color: var(--fg-faint); }
+.stamp .live { width: 6px; height: 6px; }
+@media (prefers-reduced-motion: no-preference) {
+	.gdot { animation: glow 2.8s ease-in-out infinite; }
+	.live { animation: live 2.4s ease-in-out infinite; }
+}
+@keyframes glow { 50% { box-shadow: 0 0 0 4px var(--bg), 0 0 0 5px var(--line-strong), 0 0 18px 4px var(--glow); } }
+@keyframes live { 50% { box-shadow: 0 0 14px 3px var(--live); } }
+@keyframes fadein { from { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .t *, .t *::before, .t *::after { animation: none !important; transition: none !important; } }
+
+
+.btns { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; }
+.btn { display: inline-flex; align-items: center; gap: 8px; height: 40px; padding-inline: 18px; border-radius: 999px; font: 500 14px/1 var(--body); letter-spacing: -0.005em; border: 1px solid var(--line-strong); color: var(--fg); background: transparent; white-space: nowrap; }
+.btn.fill { background: var(--invert-bg); color: var(--invert-fg); border-color: var(--invert-bg); }
+.btn svg { width: 14px; height: 14px; }
+]]></style><span xmlns="http://www.w3.org/1999/xhtml" class="btn" style="width: 95.55px; height: 40px;">Email <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10M7 17 17 7"/></svg></span></div></foreignObject></svg>

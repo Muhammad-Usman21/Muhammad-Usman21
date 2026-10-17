@@ -1,142 +1,27 @@
 <!--
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQGawJzuqjXzAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735127530936?e=1741219200&v=beta&t=xCR-JSEo5nvmlx0pPlICng4S44sve3HcAPl5FNhzVJ0"  />
-</div>
-
-----
+  Generated automatically; edits to this file are overwritten.
+  The numbers, charts and snake refresh every 6 hours.
 -->
 
-###
+<p align="center"><a href="https://musman-portfolio.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"><img src="assets/hero-dark.svg" alt="Muhammad Usman. Full-stack developer &amp; AI engineer, Lahore, PK · UTC+5." width="100%"></picture></a></p>
 
-<h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
+<p align="center">
+<a href="https://musman-portfolio.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/buttons/portfolio-light.svg"><img src="assets/buttons/portfolio-dark.svg" alt="View portfolio: https://musman-portfolio.vercel.app" height="40"></picture></a>
+<a href="https://musman-portfolio.vercel.app/Usman-Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/resume-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/buttons/resume-light.svg"><img src="assets/buttons/resume-dark.svg" alt="Résumé: https://musman-portfolio.vercel.app/Usman-Resume.pdf" height="40"></picture></a>
+<a href="https://www.linkedin.com/in/musman21/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/buttons/linkedin-light.svg"><img src="assets/buttons/linkedin-dark.svg" alt="LinkedIn: https://www.linkedin.com/in/musman21/" height="40"></picture></a>
+<a href="https://musman-portfolio.vercel.app/#contact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/buttons/email-light.svg"><img src="assets/buttons/email-dark.svg" alt="Email: https://musman-portfolio.vercel.app/#contact" height="40"></picture></a>
+</p>
 
-###
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg"><img src="assets/about-dark.svg" alt="I build full-stack products and ship AI into them. React and Next.js up front, Express or Python and Flask behind them. These days I work as an AI engineer, building agents that reason, use tools and get real work done. Path so far: Codenix, Freelance developer (2024 — Now); Nifty Code, Full-stack developer (2025 — 2026); ProgrammersTech, MERN stack intern (2024); COMSATS Lahore, BS Computer Science (2022 — 2026)." width="100%"></picture></p>
 
-***<h3 align="center">MERN Stack Web Developer | AI Engineering Enthusiast</h3>***
+<p align="center"><a href="https://github.com/Muhammad-Usman21"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/numbers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/numbers-light.svg"><img src="assets/numbers-dark.svg" alt="2,867 contributions in the last year (99% private), 285 active days, longest streak 51 days, current streak 23 days." width="100%"></picture></a></p>
 
-###
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/chart-months-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/chart-months-light.svg"><img src="assets/chart-months-dark.svg" alt="Nov 50, Dec 51, Jan 113, Feb 87, Mar 151, Apr 142, May 260, Jun 361, Jul 252, Aug 250, Sep 715, Oct 397" width="100%"></picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/chart-weekdays-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/chart-weekdays-light.svg"><img src="assets/chart-weekdays-dark.svg" alt="Mon 372, Tue 355, Wed 383, Thu 451, Fri 666, Sat 310, Sun 330" width="49.4%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/chart-languages-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/chart-languages-light.svg"><img src="assets/chart-languages-dark.svg" alt="JavaScript 63%, Python 19%, HTML 9%, SQL 8%, CSS 1%" width="49.4%"></picture>
+</p>
 
----
+<p align="center"><a href="https://github.com/Muhammad-Usman21"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg"><img src="assets/activity-dark.svg" alt="A snake hunts the last year's 285 contribution days in a random order. 285 active days." width="100%"></picture></a></p>
 
-<h2 align="center">🔥 About Me 💻</h2>
-
-###
-
-
-💻 **MERN Full-Stack Web Developer:** 🚀 <br/>
-Passionate about building dynamic, user-friendly websites and applications. Proficient in ***MongoDB***, ***Express.js***, ***React.js***, and ***Node.js*** to craft efficient, scalable solutions. 🌐
-
-###
-
-🤖 **AI Enthusiast & Engineer:** 🧠 <br/> 
-Exploring the realms of ***Machine Learning***, ***Computer Vision***, and ***Generative AI*** to solve complex problems and create innovative systems. ⚙️
-
-###
-
-🌱 **Always Learning:** 📚 <br/>
-Continuously growing my skills in web development and AI to stay at the forefront of technology. 🔍
-
-###
-
-🚀 **Let's Collaborate:** 🤝 <br/>
-Check out my repositories and feel free to reach out for collaboration or discussions! 💬
-
-###
-
----
-
-###
-
-<h3 align="center">👨‍💻 Profile Viewers 🔍</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Muhammad-Usman21/count.svg?"  />
-</div>
-
-###
-
-----
-
-###
-
-<h2 align="center">🛠️ Languages and Tools</h2>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-
-  ###
-
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-</div>
-
-###
-
-
-
-<!--
-
-----
-
-###
-
-<h2 align="center">🏆 GitHub Stats 🌟</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Usman21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Usman21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="160" alt="languages graph"  />
-</div>
-
-###
-
--->
-
-----
-
-###
-
-<h2 align="center">✉️ Contact Me</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/musman21" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:musman.akhtar21@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+<p align="center"><a href="mailto:musman.akhtar21@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contact-light.svg"><img src="assets/contact-dark.svg" alt="Have a project in mind? Let's build it. Write to musman.akhtar21@gmail.com." width="100%"></picture></a></p>

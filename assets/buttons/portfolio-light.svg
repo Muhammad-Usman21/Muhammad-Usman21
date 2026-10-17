@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151.86" height="40" viewBox="0 0 151.86 40" role="img"><title>View portfolio</title><desc>View portfolio: https://musman-portfolio.vercel.app</desc><foreignObject x="0" y="0" width="151.86" height="40"><div xmlns="http://www.w3.org/1999/xhtml" class="t" style="width:151.86px;height:40px"><style><![CDATA[
+@font-face { font-family: "Inter"; font-style: normal; font-weight: 500; font-display: block; src: url(data:font/woff2;base64,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) format("woff2"); }
+.t { --bg: #fafafa; --bg-elev: #ffffff; --fg: #090909; --fg-muted: #424242; --fg-faint: #717171; --line: rgba(22, 22, 22, 0.16); --line-strong: rgba(22, 22, 22, 0.32); --invert-bg: #1b1b1b; --invert-fg: #fafafa; --live: #03a14a; --glow: rgba(9, 9, 9, 0.22); }
+
+.t {
+	--display: "Newsreader", Georgia, serif;
+	--body: "Inter", system-ui, sans-serif;
+	--mono: "JetBrains Mono", ui-monospace, monospace;
+	--ease: cubic-bezier(0.16, 1, 0.3, 1);
+	font: 14px/1.5 var(--body);
+	-webkit-font-smoothing: antialiased;
+}
+.t * { box-sizing: border-box; }
+.card {
+	background: var(--bg); color: var(--fg); border: 1px solid var(--line); border-radius: 10px;
+	position: relative; overflow: hidden; font-family: var(--body);
+}
+.card::after {
+	content: ""; position: absolute; inset: 0; pointer-events: none; opacity: 0.05;
+	background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2' stitchTiles='stitch'/><feColorMatrix type='saturate' values='0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+}
+.pad { padding: 36px; }
+/* the portfolio's two label tiers: .mono / scene heads (12px, 0.26em) and .note-sized small labels (11px, 0.2em) */
+.mono { font: 400 12px/1.5 var(--mono); text-transform: uppercase; letter-spacing: 0.26em; color: var(--fg-muted); }
+.note { font-size: 11px; letter-spacing: 0.2em; color: var(--fg-faint); }
+.tnum { font-variant-numeric: tabular-nums; }
+.head { display: flex; justify-content: space-between; align-items: center; gap: 16px; }
+.tagline { display: inline-flex; align-items: center; gap: 16px; color: var(--fg); }
+.gdot { width: 8px; height: 8px; margin-inline: 5px; border-radius: 50%; background: var(--fg); box-shadow: 0 0 0 4px var(--bg), 0 0 0 5px var(--line-strong), 0 0 10px 1px var(--glow); flex: none; }
+.live { width: 7px; height: 7px; border-radius: 50%; background: var(--live); box-shadow: 0 0 8px 1px var(--live); flex: none; }
+.serif { font-family: var(--display); font-weight: 400; letter-spacing: -0.03em; margin: 0; text-wrap: balance; }
+.stamp { display: inline-flex; align-items: center; gap: 8px; font-size: 11px; letter-spacing: 0.2em; color: var(--fg-faint); }
+.stamp .live { width: 6px; height: 6px; }
+@media (prefers-reduced-motion: no-preference) {
+	.gdot { animation: glow 2.8s ease-in-out infinite; }
+	.live { animation: live 2.4s ease-in-out infinite; }
+}
+@keyframes glow { 50% { box-shadow: 0 0 0 4px var(--bg), 0 0 0 5px var(--line-strong), 0 0 18px 4px var(--glow); } }
+@keyframes live { 50% { box-shadow: 0 0 14px 3px var(--live); } }
+@keyframes fadein { from { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .t *, .t *::before, .t *::after { animation: none !important; transition: none !important; } }
+
+
+.btns { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; }
+.btn { display: inline-flex; align-items: center; gap: 8px; height: 40px; padding-inline: 18px; border-radius: 999px; font: 500 14px/1 var(--body); letter-spacing: -0.005em; border: 1px solid var(--line-strong); color: var(--fg); background: transparent; white-space: nowrap; }
+.btn.fill { background: var(--invert-bg); color: var(--invert-fg); border-color: var(--invert-bg); }
+.btn svg { width: 14px; height: 14px; }
+]]></style><span xmlns="http://www.w3.org/1999/xhtml" class="btn fill" style="width: 151.86px; height: 40px;">View portfolio <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10M7 17 17 7"/></svg></span></div></foreignObject></svg>
